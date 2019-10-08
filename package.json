@@ -1,0 +1,14 @@
+{
+  "name": "condensat",
+  "version": "0.1.0",
+  "description": "Simple hashing demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^3.0.2"
+  }
+}
